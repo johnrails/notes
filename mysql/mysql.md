@@ -1,0 +1,1 @@
+This is a collection of notes, commands, or tips i've repeatedly searched for during my career as a software developer working primarily as a full stack developer using technologies such as Ruby On Rails, React, Redux, Graphql, Mysql, Postgresql, and various *nix flavored operating systems.
